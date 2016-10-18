@@ -44,3 +44,7 @@ a:hover {
 p {
   margin: 1.5rem;
 }
+
+body {
+  margin: 0;
+}
