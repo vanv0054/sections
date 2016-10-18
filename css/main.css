@@ -10,6 +10,7 @@ html {
   background-color: #f2f2f2;
   line-height: 1.5;
   display: inline-block;
+  vertical-align: middle;
 }
 
 *, *::before, *::after {
