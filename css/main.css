@@ -16,36 +16,31 @@ html {
   box-sizing: inherit;
 }
 
-h2 {
+h1 {
   font-weight: bold;
-  font-size: 2rem;
-}
-
-footer {
-  border: 5px solid #666;
-  border-radius: 5px;
-  font-size: 2em;
-  margin:0;
-  padding: 1em;
-  list-style-type: none;
-}
-
-footer:hover {
-  background-color: #333;
+  margin: 1.5rem;
 }
 
 img {
   width: 100%;
-}
-
-body {
-  margin: 0;
+  display: inline-block;
 }
 
 a {
   text-decoration: none;
-  list-style-position: none;
-  color: 000;
-  margin: 0;
-  padding: 0.75em;
+  color: #666;
+  border: 3px solid #333;
+  border-radius: 10px;
+  padding: 0.4em 0.75em 0.5em;
+  margin: 1.5rem;
+}
+
+a:hover {
+  background-color: #666;
+  color: #fff;
+  border: 3px solid #666;
+}
+
+p {
+  margin: 1.5rem;
 }
