@@ -49,7 +49,7 @@ a:hover {
 
 .btn {
   text-align: left;
-  display: inline-block;
+  display: block;
   margin: 1.5rem;
 }
 
