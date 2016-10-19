@@ -21,6 +21,8 @@ h1 {
   font-weight: bold;
   margin: 1.5rem;
   text-align: center;
+  max-width: 25em;
+  display: block;
 }
 
 img {
@@ -55,4 +57,12 @@ body {
 
 h2 {
   max-width: 25em;
+}
+
+div {
+  max-width: 25em;
+}
+
+p {
+  display: block;
 }
