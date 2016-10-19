@@ -50,6 +50,7 @@ a:hover {
 .btn {
   margin: 1.5rem;
   text-align: left;
+  display: inline-block;
 }
 
 body {
@@ -62,8 +63,4 @@ h2 {
 
 div {
   max-width: 25em;
-}
-
-p {
-  display: block;
 }
