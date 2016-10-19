@@ -66,3 +66,7 @@ div {
 p {
   display: block;
 }
+
+h2 a {
+  font-size: .8em;
+}
