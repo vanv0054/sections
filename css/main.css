@@ -29,6 +29,7 @@ img {
   width: 100%;
   display: block;
   padding: 1em;
+  vertical-align: middle;
 }
 
 a {
