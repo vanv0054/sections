@@ -27,7 +27,7 @@ h1 {
 
 img {
   width: 100%;
-  display: inline-block;;
+  display: block;
   padding: 1em;
 }
 
