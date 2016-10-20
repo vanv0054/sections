@@ -29,6 +29,7 @@ img {
   width: 100%;
   display: block;
   padding: 1em;
+  text-align: center;
 }
 
 a {
@@ -63,4 +64,8 @@ h2 {
 
 div {
   max-width: 25em;
+}
+
+section {
+  margin: 0;
 }
