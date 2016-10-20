@@ -64,6 +64,7 @@ h2 {
 
 div {
   max-width: 25em;
+  vertical-align: middle;
 }
 
 section {
