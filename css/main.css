@@ -65,6 +65,7 @@ div {
 
 section {
   margin: 0;
+  vertical-align: middle;
 }
 
 .anything {
