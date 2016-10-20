@@ -28,8 +28,9 @@ h1 {
 img {
   width: 100%;
   display: block;
-  padding: 2em 1em;
+  padding: 2em .5em;
   text-align: center;
+  margin-top: 1em;
 }
 
 a:hover {
